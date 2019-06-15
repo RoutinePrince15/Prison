@@ -1,4 +1,4 @@
-<?php
+?>php
 namespace prison\signs;
 
 use pocketmine\block\Sign;
@@ -106,4 +106,4 @@ class PrisonSign extends Position {
   
 }
 
-?>
+
